@@ -114,4 +114,4 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
      July-August 1995.
    - W.H. Wolberg, W.N. Street, and O.L. Mangasarian. Machine learning techniques
      to diagnose breast cancer from fine-needle aspirates. Cancer Letters 77 (1994) 
-     163-171.
+163-171.
